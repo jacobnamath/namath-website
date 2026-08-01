@@ -54,7 +54,7 @@ function Projects() {
       <h2>Projects</h2>
       <p className="projects-intro">
         A range of data science work spanning statistical analysis, machine learning, and
-        domain-specific analytics — from sports data to environmental policy research.
+        domain-specific analytics from sports data to environmental policy research.
       </p>
 
       <div className="project-list">
